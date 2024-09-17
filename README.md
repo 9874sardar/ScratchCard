@@ -1,5 +1,5 @@
-**If You Use the Code . 
+**If You Use the Code .** 
 
-Please Add you name in the Readme file or give a star to the repo . 
+**Please Add you name in the Readme file or give a star to the repo .** 
 
-IT will be great Knowing You**
+**IT will be great Knowing You**
